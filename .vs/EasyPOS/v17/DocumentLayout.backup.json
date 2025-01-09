@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\EasyPOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1937967E-125E-4D42-A8D7-0D5EF0BA9422}|Domain\\Domain.csproj|d:\\users\\practecnologia06\\onedrive - comfenalco cartagena\\escritorio\\onion api\\easypos\\domain\\valueobjects\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1937967E-125E-4D42-A8D7-0D5EF0BA9422}|Domain\\Domain.csproj|solutionrelative:domain\\valueobjects\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1937967E-125E-4D42-A8D7-0D5EF0BA9422}|Domain\\Domain.csproj|d:\\users\\practecnologia06\\onedrive - comfenalco cartagena\\escritorio\\onion api\\easypos\\domain\\customers\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1937967E-125E-4D42-A8D7-0D5EF0BA9422}|Domain\\Domain.csproj|solutionrelative:domain\\customers\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\EasyPOS\\Domain\\Customers\\Customer.cs",
+              "RelativeDocumentMoniker": "Domain\\Customers\\Customer.cs",
+              "ToolTip": "D:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\EasyPOS\\Domain\\Customers\\Customer.cs",
+              "RelativeToolTip": "Domain\\Customers\\Customer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T19:11:11.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhoneNumber.cs",
+              "DocumentMoniker": "D:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\EasyPOS\\Domain\\ValueObjects\\PhoneNumber.cs",
+              "RelativeDocumentMoniker": "Domain\\ValueObjects\\PhoneNumber.cs",
+              "ToolTip": "D:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\EasyPOS\\Domain\\ValueObjects\\PhoneNumber.cs*",
+              "RelativeToolTip": "Domain\\ValueObjects\\PhoneNumber.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T19:05:09.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
