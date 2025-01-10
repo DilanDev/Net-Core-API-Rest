@@ -2,7 +2,7 @@ using System.Reflection;
 
 namespace Application;
 
-public class ApplicationAsesemblyReference
+public class ApplicationAssemblyReference
 {
-    internal static readonly Assembly assembly = typeof(ApplicationAsesemblyReference).Assembly; 
+    internal static readonly Assembly Assembly = typeof(ApplicationAssemblyReference).Assembly;
 }

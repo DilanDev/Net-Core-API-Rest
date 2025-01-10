@@ -2,8 +2,9 @@ using Infraestructure;
 using Application;
 using Web.API;
 using Web.API.Extensions;
-
+using Web.API.Middlewares;
 var builder = WebApplication.CreateBuilder(args);
+
 
 builder.Services.AddPresentation()
                 .AddInfrastructure(builder.Configuration)
@@ -18,16 +19,18 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
     app.ApplyMigrations();
-
 }
 //app.UseHttpsRedirection();
 
 app.UseExceptionHandler("/error");
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.UseMiddleware<GloblalExceptionHandlingMiddleware>();
 
 
 var summaries = new[]
@@ -37,7 +40,7 @@ var summaries = new[]
 
 app.MapGet("/weatherforecast", () =>
 {
-    var forecast = Enumerable.Range(1, 5).Select(index =>
+    var forecast =  Enumerable.Range(1, 5).Select(index =>
         new WeatherForecast
         (
             DateOnly.FromDateTime(DateTime.Now.AddDays(index)),

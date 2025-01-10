@@ -10,3 +10,4 @@ D:\Users\practecnologia06\OneDrive - Comfenalco Cartagena\Escritorio\onion Api\E
 D:\Users\practecnologia06\OneDrive - Comfenalco Cartagena\Escritorio\onion Api\EasyPOS\Domain\obj\Debug\net8.0\Domain.pdb
 D:\Users\practecnologia06\OneDrive - Comfenalco Cartagena\Escritorio\onion Api\EasyPOS\Domain\obj\Debug\net8.0\ref\Domain.dll
 D:\Users\practecnologia06\OneDrive - Comfenalco Cartagena\Escritorio\onion Api\EasyPOS\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Users\practecnologia06\OneDrive - Comfenalco Cartagena\Escritorio\onion Api\EasyPOS\Domain\obj\Debug\net8.0\Domain.sourcelink.json

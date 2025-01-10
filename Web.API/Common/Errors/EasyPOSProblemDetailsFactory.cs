@@ -10,10 +10,6 @@ public class EasyPOSProblemDetailsFactory : ProblemDetailsFactory
 {
     private readonly ApiBehaviorOptions _options;
 
-    public EasyPOSProblemDetailsFactory()
-    {
-    }
-
     public EasyPOSProblemDetailsFactory(ApiBehaviorOptions options)
     {
         _options = options ?? throw new ArgumentNullException(nameof(options));

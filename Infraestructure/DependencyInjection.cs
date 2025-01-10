@@ -2,9 +2,8 @@
 using Application.Data;
 using Domain.Customers;
 using Domain.Primitives;
-using Infraestructure.Persistence;
-using Infraestructure.Persistence.Repositories;
-using Microsoft.EntityFrameworkCore;
+using Infrastructure.Persistence;
+using Infrastructure.Persistence.Repositories;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 

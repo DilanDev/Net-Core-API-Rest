@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aRuSkEj8qy4=",
+  "dgSpecHash": "yZYDwC5fEy8=",
   "success": true,
-  "projectFilePath": "D:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\EasyPOS\\Infraestructure\\Infraestructure.csproj",
+  "projectFilePath": "d:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\EasyPOS\\Infraestructure\\Infraestructure.csproj",
   "expectedPackageFiles": [
     "D:\\Users\\practecnologia06\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "D:\\Users\\practecnologia06\\.nuget\\packages\\fluentvalidation\\12.0.0-preview1\\fluentvalidation.12.0.0-preview1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AiBw/vHgw4w=",
+  "dgSpecHash": "4oqMhpbJBjA=",
   "success": true,
-  "projectFilePath": "D:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\EasyPOS\\Domain\\Domain.csproj",
+  "projectFilePath": "d:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\EasyPOS\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "D:\\Users\\practecnologia06\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "D:\\Users\\practecnologia06\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",

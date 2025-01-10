@@ -148,3 +148,4 @@ D:\Users\practecnologia06\OneDrive - Comfenalco Cartagena\Escritorio\onion Api\E
 D:\Users\practecnologia06\OneDrive - Comfenalco Cartagena\Escritorio\onion Api\EasyPOS\Web.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Users\practecnologia06\OneDrive - Comfenalco Cartagena\Escritorio\onion Api\EasyPOS\Web.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Users\practecnologia06\OneDrive - Comfenalco Cartagena\Escritorio\onion Api\EasyPOS\Web.API\bin\Debug\net8.0\ErrorOr.dll
+D:\Users\practecnologia06\OneDrive - Comfenalco Cartagena\Escritorio\onion Api\EasyPOS\Web.API\obj\Debug\net8.0\Web.API.sourcelink.json
