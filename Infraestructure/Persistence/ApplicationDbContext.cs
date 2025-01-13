@@ -17,7 +17,7 @@ public class ApplicationDbContext : DbContext, IApplicationDbContext, IUnitOfWor
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-       modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
+    modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
     }
 
     public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = new CancellationToken())

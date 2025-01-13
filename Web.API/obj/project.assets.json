@@ -3626,11 +3626,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\EasyPOS\\Web.API\\Web.API.csproj",
+      "projectUniqueName": "D:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\Net-Core-API-Rest\\Web.API\\Web.API.csproj",
       "projectName": "Web.API",
-      "projectPath": "d:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\EasyPOS\\Web.API\\Web.API.csproj",
+      "projectPath": "D:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\Net-Core-API-Rest\\Web.API\\Web.API.csproj",
       "packagesPath": "D:\\Users\\practecnologia06\\.nuget\\packages\\",
-      "outputPath": "d:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\EasyPOS\\Web.API\\obj\\",
+      "outputPath": "D:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\Net-Core-API-Rest\\Web.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3652,11 +3652,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "d:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\EasyPOS\\Application\\Application.csproj": {
-              "projectPath": "d:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\EasyPOS\\Application\\Application.csproj"
+            "D:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\Net-Core-API-Rest\\Application\\Application.csproj": {
+              "projectPath": "D:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\Net-Core-API-Rest\\Application\\Application.csproj"
             },
-            "d:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\EasyPOS\\Infraestructure\\Infraestructure.csproj": {
-              "projectPath": "d:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\EasyPOS\\Infraestructure\\Infraestructure.csproj"
+            "D:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\Net-Core-API-Rest\\Infraestructure\\Infraestructure.csproj": {
+              "projectPath": "D:\\Users\\practecnologia06\\OneDrive - Comfenalco Cartagena\\Escritorio\\onion Api\\Net-Core-API-Rest\\Infraestructure\\Infraestructure.csproj"
             }
           }
         }

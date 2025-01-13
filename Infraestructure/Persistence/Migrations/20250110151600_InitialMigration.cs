@@ -20,7 +20,7 @@ namespace Infraestructure.Persistence.Migrations
                     LastName = table.Column<string>(type: "character varying(50)", maxLength: 50, nullable: false),
                     Email = table.Column<string>(type: "character varying(255)", maxLength: 255, nullable: false),
                     PhoneNumber = table.Column<string>(type: "character varying(10)", maxLength: 10, nullable: false),
-                    Address_Country = table.Column<string>(type: "character varying(3)", maxLength: 10, nullable: false),
+                    Address_Country = table.Column<string>(type: "character varying(30)", maxLength: 30, nullable: false),
                     Address_Line1 = table.Column<string>(type: "character varying(20)", maxLength: 20, nullable: false),
                     Address_Line2 = table.Column<string>(type: "character varying(20)", maxLength: 20, nullable: true),
                     Address_City = table.Column<string>(type: "character varying(40)", maxLength: 40, nullable: false),
